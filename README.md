@@ -1,5 +1,7 @@
 # Clan Event Attendance [![Plugin Installs](https://img.shields.io/endpoint?url=https://i.pluginhub.info/shields/installs/plugin/clan-event-attendance)](https://runelite.net/plugin-hub/JoRouss) [![Plugin Rank](https://img.shields.io/endpoint?url=https://i.pluginhub.info/shields/rank/plugin/clan-event-attendance)](https://runelite.net/plugin-hub)
 
+Forked from [JoRouss](https://github.com/JoRouss/clan-event-attendance)
+
 A plugin used to generate a list of clan members attending an event.
 
 It is designed so any clan member can take attendance at an event and post attendance to their clan's social media.
