@@ -1,4 +1,4 @@
-# Clan Event Attendance [![Plugin Installs](https://img.shields.io/endpoint?url=https://i.pluginhub.info/shields/installs/plugin/clan-event-attendance)](https://runelite.net/plugin-hub/JoRouss) [![Plugin Rank](https://img.shields.io/endpoint?url=https://i.pluginhub.info/shields/rank/plugin/clan-event-attendance)](https://runelite.net/plugin-hub)
+# Clan Event Attendance
 
 Forked from [JoRouss](https://github.com/JoRouss/runelite-ClanEventAttendance)
 
